@@ -1,0 +1,9 @@
+{
+    "default_model": "deepseek-chat",
+    "default_system_prompt": "You are a helpful assistant. You can help me by answering my questions. You can also ask me questions.",
+    "personal_info": {
+        "name": "",
+        "age": null,
+        "description": ""
+    }
+}
